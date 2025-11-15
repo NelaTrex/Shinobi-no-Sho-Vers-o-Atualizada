@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.14.0](https://github.com/NelaTrex/Shinobi-no-Sho-Vers-o-Atualizada/compare/v1.13.3...v1.14.0) (2025-11-15)
+
+
+### Features
+
+* Implementa ficha V2 completa (Configuracoes, Databook, Kuchiyose/Kugutsu) ([6b9c6c5](https://github.com/NelaTrex/Shinobi-no-Sho-Vers-o-Atualizada/commit/6b9c6c592ec25fbe67e6983f917e80bc597c02cf))
+
 ## [1.13.3](https://github.com/SouOWendel/shinobi-no-sho/compare/v1.13.2...v1.13.3) (2024-12-14)
 
 
